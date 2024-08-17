@@ -1,5 +1,5 @@
 # PDF-to-Text-Converter
-Este repositório contém um script Python para a extração de texto de arquivos PDF e salvamento do conteúdo em um arquivo de texto (.txt). Utiliza a biblioteca PyPDF2 para ler e extrair o texto das páginas do PDF.
+Este repositório contém um script Python para a extração de texto de arquivos PDF e salvamento do conteúdo em um arquivo de texto (.txt). Utiliza a biblioteca PyPDF2 para ler e extrair o texto das páginas do PDF. **O texto gerando não serve para leitura humana, ele deve ser usado como fonte para extração de dados via Regex**.
 
 # Funcionalidades
 - **Leitura de PDF**: Lê o conteúdo de um arquivo PDF e extrai o texto de todas as suas páginas.
